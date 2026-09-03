@@ -21,5 +21,5 @@ I simply build it to test my knowledge on ai. And just use little bit DSA. Using
 The algorithm take 3 minimum distance in and calculate the which is the shortest of all. I already develop the model in pkl.
 Then I will build it's api and dockerize it later.
 
-If you can reach me, by sumitgupta13694@gmail.com
+You can reach me, by sumitgupta13694@gmail.com
 Open to remote opportunities. Based in India (IST). Available for core overlap hours with US/EU timezones.
