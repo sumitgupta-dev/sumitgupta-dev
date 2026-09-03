@@ -22,4 +22,4 @@ The algorithm take 3 minimum distance in and calculate the which is the shortest
 Then I will build it's api and dockerize it later.
 
 If you can reach me, by sumitgupta13694@gmail.com
-I don't work in night, i am strict there. I am sleeping from 10 pm to 6am in IST.
+Open to remote opportunities. Based in India (IST). Available for core overlap hours with US/EU timezones.
