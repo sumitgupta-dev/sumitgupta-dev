@@ -23,3 +23,4 @@ Then I will build it's api and dockerize it later.
 
 You can reach me, by sumitgupta13694@gmail.com
 Open to remote opportunities. Based in India (IST). Available for core overlap hours with US/EU timezones.
+I learn with ai I have 4 step method poke it, debug it, creat logic on paper, write code, if error then ask again.
