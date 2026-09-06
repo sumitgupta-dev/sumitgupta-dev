@@ -18,7 +18,7 @@ I am working on Retrieval-Augmented Generation that read pdf book and reply acco
 I am buidling Algorithmic Valuation Engine.
 I simply build it to test my knowledge on ai. And just use little bit DSA. Using heap for fast searching.
 The algorithm take 3 minimum distance in and calculate the which is the shortest of all. I already develop the model in pkl.
-Then I will build it's api and dockerize it later.
+I build it's api and dockerize it at render.com here https://zillow-valuation-engine.onrender.com/docs.
 
 You can reach me, by sumitgupta13694@gmail.com
 Open to remote opportunities. Based in India (IST). Available for core overlap hours with US/EU timezones.
