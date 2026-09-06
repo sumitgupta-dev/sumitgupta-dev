@@ -20,6 +20,6 @@ I simply build it to test my knowledge on ai. And just use little bit DSA. Using
 The algorithm take 3 minimum distance in and calculate the which is the shortest of all. I already develop the model in pkl.
 I build it's api and dockerize it at render.com here https://zillow-valuation-engine.onrender.com/docs.
 
-You can reach me, by sumitgupta13694@gmail.com
+You can reach me, by sumitgupta.mle@gmail.com
 Open to remote opportunities. Based in India (IST). Available for core overlap hours with US/EU timezones.
 I learn with ai I have 4 step method poke it, debug it, creat logic on paper, write code, if error then ask again.
