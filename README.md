@@ -1,5 +1,4 @@
-I am working on project that give prediction of house prize by taking user inputs.
-And find 3 nearest similar house with using heap search.
+I am working on Retrieval-Augmented Generation that read pdf book and reply according to book.
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
