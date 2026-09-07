@@ -15,7 +15,7 @@ I am working on Retrieval-Augmented Generation that read pdf book and reply acco
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 
-I am buidling Algorithmic Valuation Engine.
+I am build Algorithmic Valuation Engine.
 I simply build it to test my knowledge on ai. And just use little bit DSA. Using heap for fast searching.
 The algorithm take 3 minimum distance in and calculate the which is the shortest of all. I already develop the model in pkl.
 I build it's api and dockerize it at render.com here https://zillow-valuation-engine.onrender.com/docs.
