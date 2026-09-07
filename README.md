@@ -1,4 +1,5 @@
-I am working on Retrieval-Augmented Generation that read pdf book and reply according to book.
+I build Retrieval-Augmented Generation that read pdf book and reply according to book.
+Here you could check [Deep Work Coach](https://github.com/sumitgupta-dev/deep-work-coach)
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
